@@ -11,6 +11,8 @@ export type RoomObject = {
 
     rotation?: number;
 
+    layer?: number;
+
     points: number;
 };
 
